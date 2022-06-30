@@ -1,11 +1,12 @@
-- 👋 Hi, ### I’m Ismail Rahmani (@ismlrn)
-- 👀 I’m interested in programming and mostly web programming.
-- 🌱 I’m currently learning TypeScript and React.
-- 💞️ I’m looking to collaborate on business projects and OpenSource projects.
-- 📫 How to reach me:
--     📞 by my phone number: +98 938 213 9197
--     📧 my email: [Email](mailto:ismail.rahmanikhah@gmail.com)
--        [Telegram](https://t.me/ismlr)
+### Hi, I’m Ismail Rahmani (@ismlrn) 👋
+
+ 
+- 🌱 I’m currently learning Web programming
+- 🔥 I’m interested in programming and mostly web programming.
+- 📫 How to reach me: [Telegram](https://t.me/ismlr) or [Email](mailto:ismail.rahmanikhah@gmail.com)
+- 📞 Or you can use this number to contact me on other messengers +98 938 213 9197
+
+#### 🌍 My website: coming soon...
 
 <!---
 ismlrn/ismlrn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
